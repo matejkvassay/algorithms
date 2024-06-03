@@ -52,7 +52,7 @@ def heap_sort(A):
     return A
 
 
-heap = [1, 4, 2, 8, 3, 6, 5]
+heap = [9, 4, 2, 8, 3, 6, 5]
 print(f'original elements: {heap}')
 heap_sort(heap)
 print(f'sorted elements: {heap}')
